@@ -4,3 +4,5 @@ CSS.registerProperty({
     inherits: true,
     initialValue: 0
 })
+
+paintWorklet.addModule("paintWorklet.js")
